@@ -2,7 +2,7 @@
 
 # Latihan 1
 code :
-
+```
 ![azra3](https://user-images.githubusercontent.com/115337669/212940692-c9b712b2-6348-4dc3-a42b-d45720975c35.png)
 
 
@@ -11,7 +11,8 @@ code :
 # Latihan 2
 
 code :
-! umur = 19
+```
+umur = 19
 txt = 'Hello, nama saya azra, dan umur saya adalah {} tahun'
 hasil = txt.format(umur)
 print(hasil)
