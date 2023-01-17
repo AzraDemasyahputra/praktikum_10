@@ -11,8 +11,7 @@ code :
 # Latihan 2
 
 code :
-
-# umur = 19
+! umur = 19
 txt = 'Hello, nama saya azra, dan umur saya adalah {} tahun'
 hasil = txt.format(umur)
 print(hasil)
